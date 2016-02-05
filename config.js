@@ -1,5 +1,7 @@
+var nasPath = "C:/Users/GFX/Documents/RUSSELL/DEVELOPMENT/NewsHub-Graphics/apps/_fakeNAS/"
+
 var db = {
-  dir: "C:/Users/GFX/Documents/RUSSELL/DEVELOPMENT/NewsHub-Graphics/src/test-db/test-db.db"
+  dir: nasPath + "job-queue/jobName.job"
 }
 
 console.log('config.js loaded');

@@ -2,7 +2,7 @@ var nasPath = "C:/Users/GFX/Documents/RUSSELL/DEVELOPMENT/NewsHub-Graphics/apps/
 
 var db = {
   dir: nasPath + "job-queue/jobName.job",
-  userImgs = nasPath + "users/user-imgs"
+  userImgs: nasPath + "users/user-imgs"
 }
 
 console.log('config.js loaded');

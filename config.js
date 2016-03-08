@@ -5,5 +5,5 @@ var db = {
   userImgs: nasPath + "users/user-imgs"
 }
 
-configLoaded = true;
+var configLoaded = true;
 console.log('config.js loaded');

@@ -4,3 +4,4 @@ var config = {
   "jobTypeConfig": this.nasPath + "_config/jobIO/jobConfig/jobTypeConfig.js",
   "loaded": true
 }
+console.log('config.js loaded.');

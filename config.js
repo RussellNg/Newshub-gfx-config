@@ -5,7 +5,7 @@ var config = {
   "loaded": true
 }
 
-config.userImgs = this.nasPath + "users/user-imgs";
-config.jobTypeConfig = this.nasPath + "_config/jobIO/jobConfig/jobTypeConfig.js";
+config.userImgs = config.nasPath + "users/user-imgs";
+config.jobTypeConfig = config.nasPath + "_config/jobIO/jobConfig/jobTypeConfig.js";
 
 console.log('config.js loaded.');

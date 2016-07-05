@@ -1,5 +1,5 @@
 var config = {
-  "nasPath": "C:/Users/GFX/Documents/RUSSELL/DEVELOPMENT/NewsHub-Graphics/apps/_fakeNAS/",
+  "nasPath": "//10.13.1.53/nas/gfx/newshub-gfx",
   "userImgs": '',
   "jobTypeConfig": '',
   "loaded": true
